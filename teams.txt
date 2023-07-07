@@ -1,0 +1,493 @@
+Paris SG,88,83,85
+Liverpool,86,83,85
+Manchester City,84,87,85
+Manchester Utd,85,83,83
+Newcastle Utd,79,74,74
+Norwich,74,74,74
+Southampton,76,77,74
+Tottenham,86,79,79
+Watford,75,76,74
+West Ham,80,79,79
+Wolves,78,81,77
+Arsenal,83,79,77
+Aston Villa,80,75,77
+Brentford,74,74,73
+Brighton,77,74,76
+Burnley,76,76,76
+Chelsea,84,86,83
+Crystal Palace,77,76,74
+Everton,78,79,79
+Leeds United,78,77,76
+Leicester,80,82,79
+Angers,72,73,75
+AS Monaco,81,77,77
+AS Saint-Etienne,75,74,72
+Bordeaux,75,73,72
+Clermont foot 63,73,72,70
+FC Lorient,72,72,71
+FC Metz,73,72,74
+FC Nantes,72,74,73
+LOSC Lille,77,79,77
+Montpellier,74,75,72
+OGC Nice,80,76,75
+OL,78,78,79
+OM,81,77,76
+RC Lens,74,76,74
+Stade Brestois 29,73,73,72
+Stade de Reims,70,72,74
+Stade Rennais FC,77,75,73
+Strasbourg,75,74,74
+FC Koln,74,74,73
+FSV Mainz 05,73,74,74
+Arminia Bielefeld,72,71,72
+Borussia Dortmund,82,81,80
+FC Augsburg,71,75,74
+FC Bayern Munchen,92,85,82
+Frankfurt,75,77,76
+Furth,71,71,71
+Hertha Berlin,75,75,75
+Leverkusen,78,78,77
+M'Gladbach,79,75,80
+RB Leipzig,81,80,78
+SC Freiburg,74,74,75
+TSG Hoffenheim,80,75,75
+Union Berlin,76,73,74
+VFB Stuttgart,70,74,73
+VFL Bochum,69,71,70
+VFL Wolfsburg,78,78,78
+ATK Mohun Bagan,65,62,59
+Bengaluru FC,62,60,59
+Chennaiyin FC,59,63,58
+FC Goa,64,60,60
+Hyderabad FC,64,60,58
+Jamshedpur FC,64,58,56
+Kerala Blasters,67,60,60
+Mumbai City FC,65,62,60
+Northeast United,64,59,57
+Odisha FC,70,57,57
+SC East Bengal,64,60,57
+Bergamo Calcio,82,79,78
+Bologna,78,74,72
+Cagliari,76,74,72
+Empoli,72,70,70
+Fiorentina,77,76,76
+Genoa,76,72,72
+Hellas Verona,76,75,73
+Inter,82,81,83
+Latium,80,80,79
+Milan,81,79,81
+Napoli,82,80,80
+Piemonte Calcio,81,81,84
+Roma FC,77,79,78
+Salernitana,71,70,68
+Sampdoria,77,75,73
+Sassuolo,74,75,72
+Spezia,70,71,67
+Torino,76,73,75
+Udinese,75,74,73
+Venezia,71,68,70
+Avispa Fukuoka,67,65,67
+Cerezo Osaka,65,69,68
+F.C. Tokyo,70,68,67
+Gamba Osaka,69,67,67
+H.Consa.Sapporo,67,65,68
+Kashima Antlers,70,69,66
+Kashiwa Reysol,72,66,66
+Kawasaki Frontale,72,68,71
+Nagoya Grampus,68,68,67
+Oita Trinita,65,64,64
+S-Hiroshima,68,67,69
+Sagan Tosu,63,65,64
+Shimizu S-Pulse,69,67,66
+Shonan Bellmare,66,64,63
+Tokushima Vortis,66,65,65
+Urawa Reds,72,66,69
+Vegalta Sendai,66,64,63
+Vissel Kobe,69,70,69
+Yokohama F.M,69,70,69
+Yokohama FC,65,64,64
+Daegu FC,72,66,63
+FC Seoul,66,69,62
+Gangwon FC,66,63,64
+Gwangju FC,67,64,63
+Incheon United,67,68,66
+Jeju United,66,63,64
+Jeonbuk Hyundai,71,71,69
+Pohang Steelers,66,65,61
+Seongnam FC,66,62,64
+Suwon FC,66,66,63
+Suwon Samsung,67,68,68
+Ulsan Hyundai,66,69,70
+America,76,73,73
+Atlas,72,68,70
+Atletico de san Luis,71,67,68
+CF Monterrey,76,75,75
+Cruz Azul,79,74,73
+FC Juarez,71,69,67
+Guadalajara,74,71,69
+Leon,71,74,72
+Mazatlan FC,73,65,66
+Necaxa,71,68,69
+Pachuca,72,71,72
+Puebla,71,68,66
+Pumas,70,67,68
+Queretaro,74,69,66
+Santos Laguna,70,73,69
+Tigres,77,75,73
+Tijuana,72,69,68
+Toluca,73,71,71
+Ajax,81,78,80
+AZ,72,74,72
+FC Groningen,67,68,68
+FC Twente,68,68,68
+FC Utrecht,68,72,71
+Feyenoord,75,73,75
+Fortuna Sittard,67,67,68
+GO Ahead Eagles,68,67,65
+Heracles Almelo,67,68,66
+N.E.C. Nijmegen,65,67,67
+PEC Zwolle,64,65,66
+PSV,77,77,75
+RKC Waalwijk,66,66,66
+SC Heerenveen,69,68,67
+SC Cambuur,64,67,66
+Sparta Rotterdam,70,67,67
+Vitesse,69,69,72
+Willem II,67,68,66
+FK Bodo/Glimt,68,67,69
+FK Haugesund,65,63,63
+Kristiansund,65,64,64
+Lillestrom SK,65,65,64
+Mjondalen IF,60,61,61
+Molde FK,71,67,68
+Odds BK,63,64,66
+Rosenborg BK,67,70,66
+Sandef Jord,63,62,63
+Sarpsborg 08,65,65,64
+SK Brann,64,65,61
+Stabaek Fotball,65,64,62
+Stromsgodset IF,62,66,65
+Tromso IL,65,63,62
+Valerenga Fotball,64,64,67
+Viking FK,66,65,64
+Bruk-Bet,60,63,63
+Cracovia,66,63,65
+Gornik Leczna,62,63,61
+Gornik Zabrze,66,64,64
+Jagiellonia,64,65,67
+Lech Poznan,69,69,70
+Lechia Gdansk,67,65,65
+Legia Warszawa,69,69,69
+Piast Gliwice,65,66,67
+Pogon Szczecin,66,67,67
+Radomiak Radom,64,64,64
+Rakow,66,66,67
+Stal Mielec,63,63,63
+Slask Wroclaw,66,66,65
+Warta Poznan,64,63,64
+Wisla Krakow,64,65,64
+Wisla Plock,63,64,64
+Zaglebie Lubin,65,66,64
+Arouca,69,69,68
+Belenenses Sad,69,69,68
+Boavista FC,70,69,69
+CD Tondela,70,68,69
+Estoril Praia,68,69,70
+FC Famalicao,70,71,69
+FC Porto,76,80,77
+FC Vizela,67,70,69
+Gil Vicente,68,68,68
+Maritimo,69,70,69
+Moreirense FC,70,70,69
+Pacos Ferreira,69,72,70
+Portimonense SC,67,72,69
+Santa Clara,68,69,69
+SC Braga,75,73,75
+SL Benfica,78,80,78
+Sporting CP,79,79,78
+Vitoria SC,74,71,71
+Bohemian FC,62,60,60
+Derry City,57,58,59
+Drogheda United,59,57,58
+Dundalk,63,63,60
+Finn Harps,59,58,59
+Longford Town,56,55,56
+Shamrock Rovers,63,62,64
+Sligo Rovers,58,59,61
+St.Pats,61,63,61
+Waterford FC,56,57,57
+AC Monza,69,69,70
+AEK Athens,74,73,70
+Al Ain FC,75,69,64
+Apoel FC,69,67,65
+Benevento,70,68,69
+Crotone,67,67,66
+CSKA Moscow,72,72,74
+Dinamo Zagreb,68,73,71
+Dynamo Kyiv,67,75,73
+Ferencvarosi TC,70,72,70
+Hajduk Split,68,70,69
+HJK Helsinki,65,65,64
+Kaizer Chiefs,71,66,67
+Lecce,69,67,69
+Lokomotiv Moscow,75,70,74
+Olymipacos CFP,76,74,74
+Orlando Pirates,69,68,67
+Panathinaikos,72,71,68
+Parma,71,70,69
+Paok,75,73,71
+Shakhtar Donetsk,72,75,74
+Slavia Praha,74,75,72
+Sparta Praha,73,74,73
+Spartak Moscow,76,73,72
+Viktoria Plzen,75,72,72
+Wrexham AFC,63,62,61
+Soccer AID,94,93,92
+Adidas All-Star,90,87,85
+MLS All Stars,79,76,70
+Real Madrid,83,86,83
+Academica,64,63,63
+AFC Chindia,65,64,64
+CFR Cluj,68,68,69
+CS Mioveni,61,62,62
+Farul Constanta,64,66,66
+FC Arges,65,63,64
+FC Botosani,64,66,65
+FC Dinamo 1948,63,64,65
+FC Rapid,64,64,67
+FC U Craiova,64,65,63
+FC Voluntari,63,65,64
+FCSB,69,70,68
+Gaz Metan,62,64,63
+Sepsi OSK,66,65,63
+Univ. Craiova,67,68,67
+Uta Arad,64,63,64
+Abha Club,68,65,62
+Al Ahli,76,66,67
+Al Batin,67,66,61,
+Al Faisaly,68,70,63
+Al Fateh,68,66,62
+Al Fayha,67,66,63
+Al Hazem,70,64,61
+Al Hilal,79,75,72
+Al Ittihad,72,71,68
+Al Nassr,79,68,69
+Al Raed,69,68,64
+Al Shabab,76,70,66
+Al Taawoun,73,68,66
+Al Tai,64,64,62
+Damac FC,72,67,65
+Ettifaq FC,67,67,65
+Aberdeen,68,68,66
+Celtic,73,74,72
+Dundee FC,64,64,64
+Dundee United,65,66,65
+Hearts,67,69,66
+Hibernian,71,66,66
+Livingston,64,65,63
+Motherwell,65,64,64
+Rangers,74,74,75
+Ross County,63,63,62
+St.Johnstone,65,64,64
+St.Mirren,65,64,65
+Athletic Club,80,79,78
+Atletico de Madrid,84,84,83
+CA Osasuna,78,77,75
+Cadiz CF,75,75,73
+D. Alaves,75,73,75
+Elche CF,76,75,73
+FC Barcelona,82,83,80
+Getafe CF,75,77,76
+Granada CF,77,77,76
+Levante UD,79,77,74
+Rayo Vallecano,78,74,73
+RC Celta,80,76,75
+RCD Espanyol,78,77,76
+RCD Mallorca,75,74,73
+Real Betis,79,80,78
+Real Sociedad,82,80,78
+Sevilla FC,80,82,83
+Valencia CF,77,77,78
+Villarreal CF,83,79,79
+AIK,68,67,69
+BK Hacken,65,65,64
+Degerfors IF,64,62,62
+Djurgardens IF,65,66,66
+Halmstads BK,61,62,62
+Hammarby IF,66,67,68
+IF Elfsborg,63,67,67
+IFK Goteborg,66,67,66
+IFK Norrkoping,69,65,64
+IK Sirius,64,63,63
+Kalmar FF,66,64,63
+Malmo FF,70,70,69
+Mjallby AIF,63,64,61
+Orebro SK,65,64,62
+Ostersunds FK,60,61,62
+Varbergs Bois,62,63,62
+BSC Young Boys,74,73,72
+FC Basel 1893,77,71,71
+FC Lugano,64,68,65
+FC Luzern,68,70,67
+FC Sion,66,68,64
+FC St.Gallen,65,66,63
+FC Zurich,65,68,63
+Grasshopper Club,65,68,65
+Laussanne-Sport,64,65,65
+Servette FC,68,68,69
+Adana Demirspor,73,70,71
+Alanyaspor,69,71,72
+Altay SK,69,69,66
+Antalyaspor,69,71,69
+Basaksehir,74,73,72
+Besiktas,76,75,73
+Caykur Rizespor,73,70,69
+Fenerbahce,75,73,74
+Galatasaray,72,72,74
+Gaziantep,71,69,71
+Giresunspor,68,68,68
+Goztepe,70,69,69
+Hatayspor,70,70,68
+Karagumruk SK,71,73,73
+Kasimpasa,71,70,69
+Kayserispor,72,70,67
+Konyaspor,70,67,70
+Sivasspor,70,72,69
+Trabzonspor,74,75,73
+Yeni Malatyaspor,69,69,68
+Atlanta United,74,69,69
+Austin FC,68,73,65
+CF Montreal,69,68,67
+Chicago Fire FC,69,70,66
+Colorado Rapids,69,70,68
+Columbus Crew,71,71,70
+D.C. United,71,69,70
+FC Cincinnati,66,67,66
+FC Dallas,71,68,67
+Houston Dynamo,68,66,67
+Inter Miami CF,80,73,68
+LA Galaxy,74,70,67
+LAFC,74,69,66
+Minnesota United,72,72,69
+Nashville SC,71,70,66
+New England,72,70,68
+New York City FC,71,71,69
+Orlando City,68,71,69
+Philadelphia,70,71,69
+Portland Timbers,73,71,70
+Real Salt Lake,72,68,65
+Red Bulls,69,68,68
+SJ Earthquakes,70,69,68
+Sounders FC,74,68,69
+Sporting KC,71,70,68
+Toronto FC,68,71,69
+Whitecaps FC,69,69,66
+Aldosivi,69,68,66
+Argentinos JRS.,69,70,72
+Arsenal,69,66,67
+Atletico Tucuman,70,70,68
+Banfield,68,71,67
+Boca Juniors,69,75,76
+Central Cordoba,68,69,67
+Colon,72,73,72
+Defensa,69,71,70
+Estudiantes,70,72,71
+Gimnasia,71,69,69
+Godoy Cruz,69,70,68
+Huracan,66,69,66
+Independiente,76,74,71
+Lanus,72,71,70
+Newell's,71,69,70
+Patronato,68,67,66
+Platense,66,68,65
+Racing Club,72,74,73
+River Plate,77,74,75
+Rosario Central,73,70,68
+San Lorenzo,71,69,70
+Sarmiento,67,66,67
+Talleres,71,70,72
+Union,70,66,70
+Velez Sarsfield,73,72,73
+Adelaide United,60,67,64
+Brisbane Roar,60,63,63
+Central Coast,64,60,60
+Macarthur FC,66,62,65
+Melb. Victory,66,68,64
+Melbourne City,69,66,67
+Newcastle Jets,60,62,62
+Perth Glory,71,62,62
+Sydney FC,69,67,65
+Well. Phoenix,64,65,61
+Western United,65,69,65
+WS Wanderers,69,65,65
+Admira Wacker,63,64,65
+Austria Klagenfurt,65,65,64
+FK Austria Wien,63,65,66
+LASK,69,69,67
+RB Salzburg,72,71,73
+SCR Altach,66,64,64
+SK Rapid Wien,73,69,70
+SK Sturm Graz,69,69,66
+SV Ried,66,64,64
+TSV Hartberg,66,65,65
+Wolfsberger AC,67,68,66
+WSG Tirol,65,63,65
+Cercle Brugge,68,68,66
+Club Brugge,75,77,74
+K Beerschot VA,68,68,67
+KAA Gent,71,72,71
+Kas Eupen,67,69,68
+KRC Genk,76,73,73
+KV Kortrijk,67,69,69
+KV Mechelen,68,69,68
+KV Oostende,68,68,67
+OH Leuven,70,68,67
+RFC Seraing,66,66,64
+Royal Antwerp FC,74,72,72
+RSC Anderlecht,71,73,71
+Sint-Truiden,68,67,69
+Sp. Charleroi,70,71,67
+Standard Liege,69,71,69
+Union SG,70,69,68
+Zulte Waregem,69,69,67
+Athletico-PR,74,72,74
+Atletico Mineiro,74,74,76
+Atletico-GO,71,71,73
+Bahia,71,70,71
+Ceara SC,71,72,73
+Chapecoense,70,68,69
+Cuiaba,71,71,71
+Fluminense,74,72,72
+Fortaleza,74,71,72
+Gremio,72,72,74
+Internacional,71,74,75
+Juventude,70,70,70
+Santos,74,72,72
+Beijing Guoan,69,67,64,
+Cangzhou Lions,68,63,62
+Changchun Yatai,71,64,64
+Chongqing LJ ATH,66,57,56
+Dalian PRO,75,61,63
+Guangzhou City,58,67,61
+Guangzhou FC,74,70,69
+Hebei FC,60,63,63
+Henan SongShan,71,68,63
+Qingdao FC,64,57,62
+Shandong Taishan,59,70,67
+Shanghai Port,68,70,66
+Shanghai Shenhua,68,68,65
+Shenzhen FC,73,67,61
+Tianjin JMT,60,60,61
+Wuhan FC,67,64,63
+Aalborg BK,67,68,67
+Aarhus GF,69,67,67
+Brondby IF,69,68,67
+F.C. Kobenhavn,71,69,69
+FC Midtjylland,68,70,72
+FC Nordsjaelland,63,67,63
+Odense BK,66,64,65
+Randers FC,65,67,67
+Silkeborg IF,66,63,63
+Sonderjyske,62,64,64
+Vejle Boldklub,65,66,64
+Viborg FF,63,64,63
